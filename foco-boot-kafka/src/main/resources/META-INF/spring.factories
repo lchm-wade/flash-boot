@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.foco.boot.kafka.autoconfigure.KafkaConfiguration,\
+com.foco.boot.kafka.autoconfigure.KafkaOpenConfiguration
+

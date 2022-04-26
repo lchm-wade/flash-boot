@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.foco.boot.rocket.autoconfigure.RocketConfiguration,\
+com.foco.boot.rocket.autoconfigure.RocketOnsConfiguration,\
+com.foco.boot.rocket.autoconfigure.RocketOpenConfiguration
+

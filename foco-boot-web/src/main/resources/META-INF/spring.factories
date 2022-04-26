@@ -1,0 +1,7 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.foco.boot.web.bootstrap.WebBootstrapAutoConfiguration
+org.springframework.boot.env.EnvironmentPostProcessor=\
+  com.foco.boot.web.support.ExcludeAutoConfigurationEnvironmentPostProcessor
+
+
+

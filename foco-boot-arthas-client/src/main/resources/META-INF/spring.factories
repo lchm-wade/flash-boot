@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.foco.boot.arthas.spring.ArthasConfiguration,\
+  com.foco.boot.arthas.spring.endpoints.ArthasEndPointAutoConfiguration
