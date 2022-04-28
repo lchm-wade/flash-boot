@@ -1,0 +1,25 @@
+**/target/
+
+**/.gitignore
+# IntelliJ project files
+.idea
+*.iml
+**/out
+html
+*.ipr
+*.iws
+
+# Eclipse project files
+**/.classpath
+**/.project
+**/.settings/
+**/bin/
+
+# gradle
+.gradle
+**/build
+
+# MacOS
+gradle/
+gradlew
+gradlew.bat
